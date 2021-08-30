@@ -1,0 +1,46 @@
+@font-face {
+    font-family: 'Montserrat-ExtraBold';
+    src: url('../fonts/Montserrat-ExtraBold/Montserrat-ExtraBold.eot');
+    src: url('../fonts/Montserrat-ExtraBold/Montserrat-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Montserrat-ExtraBold/Montserrat-ExtraBold.woff') format('woff'),
+        url('../fonts/Montserrat-ExtraBold/Montserrat-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Montserrat-Bold';
+    src: url('Montserrat-Bold.eot');
+    src: url('../fonts/Montserrat-Bold/Montserrat-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Montserrat-Bold/Montserrat-Bold.woff2') format('woff2'),
+        url('../fonts/Montserrat-Bold/Montserrat-Bold.woff') format('woff'),
+        url('../fonts/Montserrat-Bold/Montserrat-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'SourceSansPro-SemiBold';
+    src: url('../fonts/SourceSanPro-SemiBold/SourceSansPro-SemiBold.eot');
+    src: url('../fonts/SourceSanPro-SemiBold/SourceSansPro-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/SourceSanPro-SemiBold/SourceSansPro-SemiBold.woff') format('woff'),
+        url('../fonts/SourceSanPro-SemiBold/SourceSansPro-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'SourceSansPro-Bold';
+    src: url('../fonts/SourceSanPro-Bold/SourceSansPro-Bold.eot');
+    src: url('../fonts/SourceSanPro-Bold/SourceSansPro-Bold.eot?#iefix') format('embeded-opentype'),
+    url('../fonts/SourceSanPro-Bold/SourceSansPro-Bold.woff') format('woff'),
+    url('../fonts/SourceSanPro-Bold/SourceSansPro-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'SourceSansPro-Regular';
+    src: url('../fonts/SourceSanPro-Regular/SourceSansPro-Regular.eot');
+    src: url('../fonts/SourceSanPro-Regular/SourceSansPro-Regular.eot?#iefix')  format('embeded-opentype'),
+    url('../fonts/SourceSanPro-Regular/SourceSansPro-Regular.woff') format('woff'),
+    url('../fonts/SourceSanPro-Regular/SourceSansPro-Regular.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
